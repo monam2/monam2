@@ -1,1 +1,1 @@
-![monam's GitHub Stats](https://github-readme-stats.vercel.app/apimonam2=anuraghazra&show_icons=true&theme=dracula)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=monam2)](https://github.com/anuraghazra/github-readme-stats)
