@@ -10,10 +10,6 @@
 </br>
 </br>
 
-
-</br>
-</br>
-
 <h3>:seedling:Studying</h3>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white" style="max-width: 100%;">
@@ -34,8 +30,6 @@
 <h3>:deciduous_tree:Problem Solving</h3>
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangcw0107)](https://solved.ac/kangcw0107/)
-
-<br>
 
 <h3>:sunflower:Interest</h3>
 
