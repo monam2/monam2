@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=I%20am%20monam2&fontSize=80)
+![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=300&section=header&text=I%20am%20monam2&fontColor=000000&fontSize=80)
 
 <br>
 
