@@ -3,6 +3,7 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=190&section=header&text=Hi,%20I'm%20monam2&fontColor=5dba9b&fontSize=80)
 <h2>둥글둥글을 꿈꾸는 네모난 개발자. 모남입니다.</h2>
 </br>
+</br>
 
 <h3>:sunglasses:Belong</h3>
 <span>> 전남대학교 컴퓨터정보통신공학과 (2018.03~2024.02)</span></br>
