@@ -14,26 +14,26 @@
 
 <h3>📋 Projects</h3>
 
-|           Title               |           Period| Participants| Link | Result | Org.|
-|--------------------------|--------------------|--|--|--|--|
-|  **나그네** | 2024.04 ~ 2024.5 | FE 1 BE 1| [👒](https://github.com/monam2/frontend-web-Vue.js) | | 삼성전자 |
-|  **SSAFY-COFFY** | 2024.06 ~ 2024.7 | Own| [☕](https://github.com/monam2/ssafy-coffy) | | 개인프로젝트 |
-|  **MEET:Z**         | 2024.07 ~ 2024.08 | FE 3 BE 3| [📺](https://github.com/monam2/meet-z) |우수상 | 삼성전자 |
-|  **아르바게트**         | 2024.08 ~ 2024.10 | FE 3 BE 3| [🥖](https://github.com/monam2/arbaguette) | | 삼성전자 |
-|  **마미손**         | 2024.09 ~ 2024.11 | FE 4 BE 2|  | | 외주 |
-|  **따 숨**         | 2024.10 ~ 2024.11 | FE 3 BE 4| [🍀](https://github.com/monam2/ddasoom) | 우수상 | 삼성전자 |
-</br>
+| Link |           Title               |           Period    | Participants | Stacks                                                                                  | Result | Org.      |
+|--------------------------|--------------------|-------------------|--------------|----------------------------------------------------------------------------------------|--------|-----------|
+| [👒](https://github.com/monam2/frontend-web-Vue.js) |  **나그네**        | 2주 | FE 1 BE 1   | ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white) ![Pinia](https://img.shields.io/badge/Pinia-FCD535?style=flat-square&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=flat-square&logo=bootstrap&logoColor=white) |        | 삼성전자    |
+| [☕](https://github.com/monam2/ssafy-coffy)         |  **SSAFY-COFFY**  | 1주 | Own         | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Recoil](https://img.shields.io/badge/recoil-61DAFB?style=flat-square&logoColor=black) ![ReactQuery](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white)    | 개인프로젝트 |           |
+| [📺](https://github.com/monam2/meet-z)            |  **MEET:Z**       | 6주 | FE 3 BE 3   | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-CC2936?style=flat-square&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white)    | 우수상  | 삼성전자    |
+| [🥖](https://github.com/monam2/arbaguette)         |  **아르바게트**    | 6주 | FE 3 BE 3   | ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-CC2936?style=flat-square&logoColor=white) ![ReactQuery](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white)  ![Emotion](https://img.shields.io/badge/Emotion-CC67BC?style=flat-square&logoColor=white)|        | 삼성전자    |
+|                                                      |  **마미손**       | 8주 | FE 4 BE 2   | ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white) ![ReactQuery](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white)|        | 외주       |
+| [🍀](https://github.com/monam2/ddasoom)           |  **따 숨**        | 5주 | FE 3 BE 4   | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![ReactQuery](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white)<br/> ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-CC2936?style=flat-square&logoColor=white) ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) | 우수상  | 삼성전자    |
 
+</br>
+<!--
 <h3>📚 Stacks</h3>
 <div>
 <img src="https://img.shields.io/badge/Typescript-3178C6?style=flat-square&logo=Typescript&logoColor=white"> <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=black"> <img src="https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white"> <img src="https://img.shields.io/badge/react native-61DAFB?style=flat-square&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white"/>
   <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"> </br>
-
 <img src="https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white"> <img src="https://img.shields.io/badge/Zustand-CC2936?style=flat-square&logoColor=white"> <img src="https://img.shields.io/badge/recoil-61DAFB?style=flat-square&logoColor=black">
  </br>
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Emotion-CC67BC?style=flat-square&logoColor=white"/> </br>
-
 </div>
+-->
 </br>
 
 <h3>:deciduous_tree:Problem Solving</h3>
