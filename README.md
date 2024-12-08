@@ -9,7 +9,6 @@
 |--------------------------|--------------------|
 | 전남대학교 컴퓨터정보통신공학과         | 2018.03 ~ 2024.02 |
 | 삼성 청년 SW아카데미(SSAFY) 11th | 2024.01 ~ 2024.12 |
-</br>
 
 
 <h3>📋 Projects</h3>
@@ -23,7 +22,6 @@
 |                           마미손                                | 8주 | FE 4 BE 2   | ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white) ![ReactQuery](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white)|       외주        |
 | [따 숨](https://github.com/monam2/ddasoom)                  | 5주 | FE 3 BE 4   | ![Next.js](https://img.shields.io/badge/Next.js-black?style=flat-square&logo=next.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=flat-square&logo=redux&logoColor=white) ![ReactQuery](https://img.shields.io/badge/reactquery-FF4154?style=flat-square&logo=reactquery&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=Tailwind&logoColor=white)<br/> ![ReactNative](https://img.shields.io/badge/ReactNative-61DAFB?style=flat-square&logo=react&logoColor=white) ![Expo](https://img.shields.io/badge/Expo-000000?style=flat-square&logo=Expo&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-CC2936?style=flat-square&logoColor=white) ![StyledComponents](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat-square&logo=kotlin&logoColor=white) | 우수상      |
 
-</br>
 <!--
 <h3>📚 Stacks</h3>
 <div>
@@ -34,7 +32,6 @@
 <img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=Tailwind CSS&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/Emotion-CC67BC?style=flat-square&logoColor=white"/> </br>
 </div>
 -->
-</br>
 
 <h3>:deciduous_tree:Problem Solving</h3>
 
