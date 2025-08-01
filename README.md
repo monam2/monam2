@@ -4,7 +4,7 @@
 
 - _Frontend Developer @ Dozn (Feb 2025 – Now)_
 - _Samsung Software Academy For Youth (SSAFY) 11th (Jan 2024 – Dec 2024)_
-- _B.S. in Computer Info and Telecommunications Engineering, Chonnam National University (Mar 2018 – Feb 2024)_
+- _B.S. in Computer Info and Telecommunications Engineering, Chonnam Nat'l Univ. (Mar 2018 – Feb 2024)_
 
 
 
