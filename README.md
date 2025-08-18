@@ -37,3 +37,6 @@
 
 
 
+
+### 📍 Contributions
+Mantine([#8162](https://github.com/mantinedev/mantine/pull/8162)) - _ScrollArea extends horizontally even with scrollbars="y" set_
