@@ -39,4 +39,5 @@
 
 
 ### 📍 Contributions
+- Material UI([#46907](https://github.com/mui/material-ui/pull/46907)) - _Add track slot to CircularProgress via enableTrackSlot_
 - Mantine([#8162](https://github.com/mantinedev/mantine/pull/8162)) - _ScrollArea extends horizontally even with scrollbars="y" set_
