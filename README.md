@@ -39,5 +39,7 @@
 
 
 ### 📍 Contributions
-- Material UI([#46907](https://github.com/mui/material-ui/pull/46907)) - _Add track slot to CircularProgress via enableTrackSlot_
-- Mantine([#8162](https://github.com/mantinedev/mantine/pull/8162)) - _ScrollArea extends horizontally even with scrollbars="y" set_
+- ❓  Vite([#20707](https://github.com/vitejs/vite/pull/20707)) - _support multiple certificates in resolveServerUrls_
+- ⭕️  Material UI([#46907](https://github.com/mui/material-ui/pull/46907)) - _Add track slot to CircularProgress via enableTrackSlot_
+- ❌  tRPC([#6926](https://github.com/trpc/trpc/pull/6926)) - _export DataTransformer type from @trpc/server and @trpc/client_
+- ⭕️  Mantine([#8162](https://github.com/mantinedev/mantine/pull/8162)) - _ScrollArea extends horizontally even with scrollbars="y" set_
