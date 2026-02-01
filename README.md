@@ -32,13 +32,11 @@
 
 <br/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=monam2&layout=compact)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kangcw0107)](https://solved.ac/kangcw0107/)
-
 
 
 
 ### 📍 Contributions
+- ❓  Vite([#21412](https://github.com/vitejs/vite/pull/21412)) - _add html.additionalAssetSources option_
 - ⭕️  Vite([#20707](https://github.com/vitejs/vite/pull/20707)) - _support multiple certificates in resolveServerUrls_
 - ⭕️  Material UI([#46907](https://github.com/mui/material-ui/pull/46907)) - _Add track slot to CircularProgress via enableTrackSlot_
 - ❌  tRPC([#6926](https://github.com/trpc/trpc/pull/6926)) - _export DataTransformer type from @trpc/server and @trpc/client_
