@@ -5,7 +5,7 @@
 
 
 ### 🌱 Experiences
-- _SIPE 5th (Feb 2026 - Jul 2026)_
+- _[SIPE](https://sipe.team/) 5th (Feb 2026 - Jul 2026)_
 - _Samsung Software Academy For Youth (SSAFY) 11th (Jan 2024 – Dec 2024)_
 - _B.S. in Computer Info and Telecommunications Engineering, Chonnam Nat'l Univ. (Mar 2018 – Feb 2024)_
 
